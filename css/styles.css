@@ -1,0 +1,32 @@
+.light-background {
+
+}
+.green-background {
+  background-color: rgb(64, 105, 56);
+  color: white;
+}
+
+.centered-image {
+  float: center;
+  width: 60%;
+  margin: auto;
+  border: 10px solid rgb(50, 63, 99);
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+
+li {
+  margin: auto;
+  width: 60%;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+  box-sizing: border-box;
+}
